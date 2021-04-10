@@ -1,17 +1,15 @@
-# Touch Go Blueprint 😸
+# Go CRUD 😸
 
 # A starter kit for Golang API project development  
 
 #### Feature
-- [x]  Company creation
-- [x]  Staff creation
-- [x]  Staff update
-- [x]  Get staff by company ID
-
+- [x]  Event creation
+- [x]  Event update
+- [x]  Get Event by Event ID
+- [x]  Get List by Event ID
 
 #### System requirements Development
 - [x]  Docker
-- [x]  Jaeger
 - [x]  MongoDB
 
 #### Prototype
